@@ -39,7 +39,7 @@ O Snowflake Schema é uma extensão do Star Schema, onde as tabelas de dimensão
 
 Neste documento, exploraremos conceitos fundamentais da modelagem de dados voltada para Business Intelligence (BI) e Data Warehousing, utilizando um dataset de ecommerce como base. Vamos abordar a construção de cubos OLAP (Online Analytical Processing), bem como as técnicas de modelagem dimensional através dos esquemas estrela (Star Schema) e floco de neve (Snowflake Schema).
 
-> [Cubos OLAP - Star Schema e Snow Flake.pdf](https://github.com/user-attachments/files/15766244/Cubos.OLAP.-.Star.Schema.e.Snow.Flake.pdf)
+> [Cubos OLAP - Star Schema e Snow Flake.pdf](https://github.com/user-attachments/files/15778119/Cubos.OLAP.-.Star.Schema.e.Snow.Flake.pdf)
 
 ## Modelo Proposto de um Star Schema - Modelo Lógico
 > ![Star Schema](https://private-user-images.githubusercontent.com/167912036/338283835-88c9c414-f7dc-4f6b-80db-4e76302ef59a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgwNDA3MTIsIm5iZiI6MTcxODA0MDQxMiwicGF0aCI6Ii8xNjc5MTIwMzYvMzM4MjgzODM1LTg4YzljNDE0LWY3ZGMtNGY2Yi04MGRiLTRlNzYzMDJlZjU5YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxMFQxNzI2NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNTYyNzVhZjgxZmExMmUyMDBlNWZjZDBkZTYwOTcyODc4YmY3NjhjOWQ4NDFiNWI4NTdkMjY3NTM1NTcyMTAyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.No8cEHSKLLhf-tnesLQ7I-U6r_aSN84t9upHdG8cAVc)
