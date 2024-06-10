@@ -51,7 +51,7 @@ Neste documento, exploraremos conceitos fundamentais da modelagem de dados volta
 ```sql
 CREATE DATABASE db_starschema /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
 
-USE db_starschema;
+Use db_starschema;
 
 -- Tabela de Dimensão de Clientes (Dim_Cliente)
 CREATE TABLE dim_cliente (
